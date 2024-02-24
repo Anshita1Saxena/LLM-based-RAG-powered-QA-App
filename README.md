@@ -1,7 +1,5 @@
 # LLM-based-RAG-powered-QA-App
 
-Here is the Anyscale reference blog which I used in order to develop this application:- [Anyscale Blog Link](https://www.anyscale.com/blog/a-comprehensive-guide-for-building-rag-based-llm-applications-part-1)
-
 This repo implements a production-ready, scalable Retrieval Augmented Generation (RAG)-powered LLM-based Open Generative (or Extractive) context-aware Question-Answering (QA) App that:
 
 1. Takes as input a new query (or question)
